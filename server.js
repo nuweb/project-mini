@@ -4,6 +4,7 @@ var express = require("express"),
 
 var app = express();
 
+//	serve static files from current directory
 app.use(express.static(__dirname + '/'));
 
 app.listen(3000);
