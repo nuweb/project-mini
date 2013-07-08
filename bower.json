@@ -2,12 +2,12 @@
   "name": "project-mini",
   "version": "0.0.0",
   "dependencies": {
-    "sass-bootstrap": "latest",
-    "requirejs": "latest",
-    "jquery": "latest",
-    "underscore": "latest",
-    "backbone": "latest",
-    "modernizr": "latest"
+    "sass-bootstrap": "~2.3.0",
+    "requirejs": "~2.1.4",
+    "jquery": "~1.9.0",
+    "underscore": "~1.4.3",
+    "backbone": "~0.9.10",
+    "modernizr": "~2.6.2"
   },
   "devDependencies": {}
 }
